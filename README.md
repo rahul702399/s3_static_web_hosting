@@ -25,6 +25,7 @@ This project demonstrates how to host a static HTML website using **Amazon S3 St
 ## 🖼️ Screenshots
 
 ### Website Output
+<img width="1913" height="862" alt="Screenshot 2026-07-09 230740" src="https://github.com/user-attachments/assets/f59f22de-f13d-4fec-88b3-b59a23f1f0b9" />
 
 ![Website Output](screenshots/website-output.png)
 
